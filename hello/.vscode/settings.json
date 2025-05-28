@@ -1,0 +1,34 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "E:/Espressif/frameworks/esp-idf-v5.2.5/",
+  "idf.pythonInstallPath": "E:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM5",
+  "idf.toolsPathWin": "E:\\Espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "files.associations": {
+    "stdio.h": "c",
+    "time.h": "c",
+    "*.inc": "c",
+    "future": "c",
+    "format": "c",
+    "charconv": "c",
+    "complex": "c",
+    "bitset": "c",
+    "string": "c",
+    "vector": "c",
+    "exception": "c",
+    "fstream": "c",
+    "limits": "c",
+    "sstream": "c",
+    "functional": "c",
+    "compare": "c",
+    "cstdint": "c",
+    "task.h": "c"
+  },
+  "idf.flashType": "UART"
+}

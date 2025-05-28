@@ -1,0 +1,2 @@
+source E:/fristEsp/hello/build/bootloader/gdbinit/symbols
+source E:/fristEsp/hello/build/bootloader/gdbinit/connect
